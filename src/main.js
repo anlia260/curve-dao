@@ -3,7 +3,6 @@ import App from './App.vue'
 import router from './router'
 import VueMeta from 'vue-meta'
 
-import * as Sentry from '@sentry/browser';
 import { CaptureConsole, Vue as VueIntegration } from '@sentry/integrations';
 
 import * as subscriptionStore from './components/common/subscriptionStore'
