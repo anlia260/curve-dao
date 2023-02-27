@@ -6,6 +6,9 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build"
   },
+  "engines": {
+    "node": "16.14.0"
+  },
   "dependencies": {
     "@aragon/connect": "0.4.2",
     "@aragon/connect-core": "0.4.2",
